@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center"> JULIA PARISH </h1>
+
+⚠ Pronouns: (she/ella)
+**Personal website:** [juliaparish.site](https://www.juliaparish.site/)
+
+
 
 <!--
 **juliaparish/juliaparish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
