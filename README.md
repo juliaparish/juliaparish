@@ -1,6 +1,8 @@
 <h1 align="center"> JULIA PARISH </h1>
 
-⚠ Pronouns: (she/ella)
+Pronouns: (she/ella)
+
+
 **Personal website:** [juliaparish.site](https://www.juliaparish.site/)
 
 
