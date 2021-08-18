@@ -1,13 +1,15 @@
 <h1 align="center"> JULIA PARISH </h1>
+<p align="center"> <small> Pronouns: (she/ella) </p>
+<h2 align="center"> Bren School for Environmental Science and Management </h2>
 
-Pronouns: (she/ella)
-
-
-**Personal website:** [juliaparish.site](https://www.juliaparish.site/)
-
+<p align="left"> test </p>
 
 
+Personal website: [juliaparish.site](https://www.juliaparish.site/)
 
+
+
+</html>
 <!--
 working in a MD file, using html language
 
