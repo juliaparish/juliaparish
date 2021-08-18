@@ -2,10 +2,13 @@
 <p align="center"> <small> Pronouns: (she/ella) </p>
 <h2 align="center"> Bren School for Environmental Science and Management </h2>
 
-<p align="left"> test </p>
+<p align="left"> Welcome! 
+I am currently a master's candidate at the Bren School for Environmental Science and Management studying environmental data science. My passion in data science includes learning programming languages, tidying data, proselytizing about the use of ISO 8601. I dream of becoming a computational artist in the future. 
+  
+</p>
 
-
-Personal website: [juliaparish.site](https://www.juliaparish.site/)
+📫 How to reach me: jparish@bren.ucsb.edu
+🚧 Personal website: [juliaparish.site](https://www.juliaparish.site/)
 
 
 
