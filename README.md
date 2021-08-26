@@ -9,9 +9,7 @@ I am currently a master's candidate at the Bren School for Environmental Science
 
 📫 How to reach me: jparish@bren.ucsb.edu
 🚧 Personal website: [juliaparish.site](https://www.juliaparish.site/)
-INaturalist: jujuba719 (https://www.inaturalist.org/people/jujuba/)
-
-
+🌼 iNaturalist: [jujuba719](https://www.inaturalist.org/people/jujuba/)
 
 </html>
 <!--
