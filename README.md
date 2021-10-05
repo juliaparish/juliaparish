@@ -1,9 +1,9 @@
 <h1 align="center"> JULIA PARISH </h1>
 <p align="center"> <small> Pronouns: (she/ella) </p>
-<h2 align="center"> Bren School for Environmental Science and Management </h2>
+<h2 align="center"> Bren School for Environmental Science & Management </h2>
 
 <p align="left"> Welcome! 
-I am currently a master's candidate at the Bren School for Environmental Science and Management at the Univeristy of California Santa Barbara studying environmental data science. My passion in data science includes learning programming languages, tidying data, and proselytizing about the use of ISO 8601. I dream of becoming a computational artist in the future, but for now I am settling for doodling in Procreate. 
+I am currently a master's candidate at the Bren School for Environmental Science & Management at the Univeristy of California Santa Barbara studying environmental data science. My passion in data science includes learning programming languages, tidying data, and proselytizing about the use of ISO 8601. I dream of becoming a computational artist in the future, but for now I am settling for doodling in Procreate. 
   
 </p>
 
