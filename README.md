@@ -8,7 +8,7 @@ I am currently a master's candidate at the Bren School for Environmental Science
 </p>
 
 📫 How to reach me: jparish@bren.ucsb.edu
-🚧 Personal website: [juliaparish.site](https://www.juliaparish.site/)
+🚧 Personal website: [juliaparish.site](https://juliaparish.github.io/)
 🌼 iNaturalist: [jujuba719](https://www.inaturalist.org/people/jujuba/)
 
 </html>
