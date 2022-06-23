@@ -3,13 +3,15 @@
 <h2 align="center"> Bren School for Environmental Science & Management </h2>
 
 <p align="left"> Welcome! 
-I am currently a master's candidate at the Bren School for Environmental Science & Management at the Univeristy of California, Santa Barbara studying environmental data science. My passion in data science includes learning programming languages, tidying data, and proselytizing about the use of ISO 8601. I dream of becoming a computational artist in the future, but for now I am settling for doodling in Procreate. 
+I recently graduated from the Bren School for Environmental Science & Management Master of Environmental Data Science program at the Univeristy of California, Santa Barbara. My passion in data science includes learning R & Python, tidying data, and proselytizing about the use of ISO 8601. I dream of becoming a computational artist in the future, but for now I am settling for doodling in Procreate. 
   
 </p>
 
 👩‍💻 Personal website: [juliaparish.github.io](https://juliaparish.github.io/)
 🌼 iNaturalist: [jujuba719](https://www.inaturalist.org/people/jujuba/)
 🏢 LinkedIn: [Julia Parish](https://www.linkedin.com/in/julia-a-parish/)
+
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8323--6574-green.svg)](https://orcid.org/0000-0002-8323-6574)\
 
 </html>
 <!--
